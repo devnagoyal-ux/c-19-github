@@ -1,2 +1,2 @@
-# trex_game
-to run the trex
+# c-19 github
+to show solar system
